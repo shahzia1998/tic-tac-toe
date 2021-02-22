@@ -6,7 +6,7 @@ namespace ConsoleApp3
     class Program
     {
 
-        static int option;
+        static int option; 
         static int player = 1;
         static int chance;
         static int win = 0;
